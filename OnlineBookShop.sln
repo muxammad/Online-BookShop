@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBookShop.Domain", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBookShop.Service", "src\OnlineBookShop.Service\OnlineBookShop.Service.csproj", "{76344026-8AB6-47DF-91C2-86DFD9EA1C9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBookShop.Web", "src\OnlineBookShop.Web\OnlineBookShop.Web.csproj", "{93C35045-440B-491C-B612-AAB52EDC6B58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{76344026-8AB6-47DF-91C2-86DFD9EA1C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76344026-8AB6-47DF-91C2-86DFD9EA1C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76344026-8AB6-47DF-91C2-86DFD9EA1C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C35045-440B-491C-B612-AAB52EDC6B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C35045-440B-491C-B612-AAB52EDC6B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C35045-440B-491C-B612-AAB52EDC6B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C35045-440B-491C-B612-AAB52EDC6B58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
